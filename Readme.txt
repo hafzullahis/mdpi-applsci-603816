@@ -1,0 +1,1 @@
+There are 4209 total Twitter user data used in this paper. Because of 25 MB upload file limitation of Github, as much as possible in 4 categories sample user data was uploaded here.
